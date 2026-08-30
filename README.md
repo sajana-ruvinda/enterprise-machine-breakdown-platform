@@ -156,17 +156,26 @@ I was responsible for the design and development of the MBR Web solution, includ
 
 Selected screenshots demonstrating the application's interface and major workflows will be added to this repository.
 
-### Dashboard
+### Landing
+![Landing](screenshots/landing.png)
 
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Breakdown Management
+### Employee Auth
+![Employee Auth](screenshots/employee_auth.png)
 
-![Breakdown Management](screenshots/breakdown-management.png)
+### Data Views
+![Data Views](screenshots/data_views.png)
+
+### CRUD Actions
+![CRUD Actions](screenshots/crud_actions.png)
+
+### Recorder
+![Recorder](screenshots/recorder.png)
 
 ### Reporting & Analytics
-
-![Reporting & Analytics](screenshots/reporting.png)
+![Reporting & Analytics](screenshots/reports.png)
 
 ---
 
